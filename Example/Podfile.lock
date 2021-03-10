@@ -1,0 +1,16 @@
+PODS:
+  - LHJavaDemo (0.1.0)
+
+DEPENDENCIES:
+  - LHJavaDemo (from `../`)
+
+EXTERNAL SOURCES:
+  LHJavaDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHJavaDemo: 3b6bc7c7c4cb0cd5b4fb0a4c06dc64541983f4bb
+
+PODFILE CHECKSUM: 493130c62f48322fe58d5488a2d96c4e8b4df00c
+
+COCOAPODS: 1.10.1

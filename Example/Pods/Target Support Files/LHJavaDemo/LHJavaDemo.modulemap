@@ -1,0 +1,6 @@
+framework module LHJavaDemo {
+  umbrella header "LHJavaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
